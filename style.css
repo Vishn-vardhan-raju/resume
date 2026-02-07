@@ -1,0 +1,95 @@
+
+*{
+    margin:5px;
+    padding:0;
+}
+
+#photo{
+    margin: 20px;
+    padding-left:800px;
+}
+
+#heading {
+    background-color: rgb(68, 68, 128);
+    width:auto;
+    height:800px;
+    display: flex;
+    justify-content: center;
+    font-size:5rem;
+    background-size: cover;
+    padding-left: 1000px;;
+}
+#edu{
+    margin: 0;
+    background-color: rgb(157, 119, 214);
+    font-size: 5rem;;
+    box-shadow: inset;
+    width:auto;
+    height:600px;
+    padding:0px;
+}
+
+#summary{
+    margin: 0;
+    background-color: rgb(157, 119, 214);
+    font-size: 5rem;;
+    box-shadow: inset;
+    width:auto;
+    height:1000px;
+    padding:0px;
+}
+
+#skills{
+    margin: 0;
+    background-color: rgb(157, 119, 214);
+    font-size: 5rem;;
+    box-shadow: inset;
+    width:auto;
+    height:900px;
+    padding:0px;
+}
+#certpro{
+    margin: 0;
+    background-color: rgb(157, 119, 214);
+    font-size: 5rem;;
+    box-shadow: inset;
+    width:auto;
+    height:1500px;
+    padding:0px;
+}
+
+#copyright{
+     margin: 0;
+    background-color: rgb(68, 68, 128);
+    font-size: 5rem;;
+    box-shadow: inset;
+    width:auto;
+    height:600px;
+    padding:0px;
+
+}
+
+.left p {
+    margin: 5px 0;
+    font-size: 5rem;
+}
+
+.right h3 {
+    margin: 0;
+    font-size: 5 rem;
+    text-align: center;
+    padding-right:10px;
+}
+
+
+
+.box {
+    border: 16px solid transparent;
+    background-color: transparent;
+}
+
+.box:hover {
+    border-color: black;
+    background-color: rgba(213, 10, 71, 0.415);
+    color: white;
+}
